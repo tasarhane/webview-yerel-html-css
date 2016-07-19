@@ -1,2 +1,3 @@
-# webview-yerel-html-css
-Yerel WebView, Kitap Okuma Uygulaması, Book Reading App, Local Webview
+# Yerel Html Css Dosyalarının WebView ile Kullanımı
+Aşağıdaki adresten detaylara ulaşabilirsiniz.
+http://tasarhane.com/android-local-webview-yerel-html-css-dosya-kullanimi.html
